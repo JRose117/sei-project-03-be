@@ -72,7 +72,7 @@ We planned to have two models, users and movies.
 
 ![](./ReadMeImages/5.png)
 
-Development:
+### Development:
 
 We planned to work collaboratively, using VSCode’s liveshare to collectively problem-solve. We also planned our time on Trello. Our plan was to create an MVP and then add stretch targets with ‘nice to have’ features.
 
